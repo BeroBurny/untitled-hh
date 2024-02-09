@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-web3-v4": "^1.0.0",
+    "hardhat": "^2.19.5",
+    "typescript": "^5.3.3",
+    "web3": "^4.4.0"
+  },
+  "dependencies": {
+    "@buildwithsygma/sygma-sdk-core": "^2.6.3",
+    "@chainsafe/hardhat-plugin-multichain-deploy": "file:../hardhat-plugin-multichain-deploy/packages/plugin"
+  }
+}
