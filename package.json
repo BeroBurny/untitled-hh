@@ -8,7 +8,6 @@
     "web3": "^4.4.0"
   },
   "dependencies": {
-    "@buildwithsygma/sygma-sdk-core": "^2.6.3",
-    "@chainsafe/hardhat-plugin-multichain-deploy": "file:../hardhat-plugin-multichain-deploy/packages/plugin"
+    "@buildwithsygma/sygma-sdk-core": "^2.6.3"
   }
 }
